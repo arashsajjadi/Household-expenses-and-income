@@ -4,5 +4,7 @@
 واضح است که این فقط یک پروژه درسی است و هیچ‌گونه هدف اقتصادی یا سیاسی را دنبال نمی‌کند.
 
 در طول این پروژه من از مشورت علمی دوستانم بهره‌مند شدم که مایلم از آن‌ها تشکر کنم.
+
 [@behradbeyglo](https://github.com/behradbeyglo)
+
 [@sohrabfaridi](https://github.com/sohrabfaridi)
